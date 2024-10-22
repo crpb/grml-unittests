@@ -6,8 +6,8 @@ Build-Depends: debhelper (>= 5)
 Build-Depends-Indep: asciidoc, docbook-xsl, xsltproc
 Standards-Version: 3.8.4
 Homepage: http://grml.org/unittests/
-Vcs-Browser: http://git.grml.org/?p=grml-unittests.git
-Vcs-Git: git://git.grml.org/grml-unittests.git
+Vcs-Browser: https://github.com/grml/grml-unittests
+Vcs-Git: https://github.com/grml/grml-unittests.git
 Origin: Grml
 Bugs: mailto:bugs@grml.org
 
